@@ -3,3 +3,5 @@ NOM : TCHOFFO Jean Jaures
 VOISIN : LORETTE
 
 
+TOTAL : 120
+
